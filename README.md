@@ -1,6 +1,6 @@
 ## Hamza Karoui
 
-Software engineer in Montréal. I build and run production systems end to end —
+Software engineer in Montréal. I build and run production systems end to end
 from native mobile sensor pipelines to cloud data platforms.
 
 **Currently**
@@ -9,16 +9,20 @@ from native mobile sensor pipelines to cloud data platforms.
 - **[Karoid](https://karoid.com)**: founder. A multi-tenant fleet telematics SaaS
   I built solo: native iOS/Android sensor modules, Express backend, Python data
   pipeline, AWS. Real-time vehicle tracking with no hardware.
+_________________________________________________________________________________
 
 **What I work on**
 Mobile sensor pipelines · offline-first architecture · ETL/ELT design ·
 CI/CD and DevSecOps · privacy engineering (Québec Law 25 / GDPR)
+
+_________________________________________________________________________________
 
 **Stack**
 Kotlin · Swift · TypeScript · Python · Java · C# · SQL
 React Native · Node · Spring Boot · .NET
 AWS · Docker · Kubernetes · Terraform · GitLab CI · GitHub Actions
 MongoDB · PostgreSQL · Redis · Kafka
+_________________________________________________________________________________
 
 **Background**
 B.Eng Software Engineering, Polytechnique Montréal (3.79/4.0)
