@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 **Background**
 B.Eng Software Engineering, Polytechnique Montréal (3.79/4.0)
-1st place — Polyfinances Datathon 2023 · 1st place — CodeML Hackathon 2023
+1st place: Polyfinances Datathon 2023 · 1st place: CodeML Hackathon 2023
 
 EN · FR · AR
 
