@@ -4,9 +4,9 @@ Software engineer in Montréal. I build and run production systems end to end �
 from native mobile sensor pipelines to cloud data platforms.
 
 **Currently**
-- **Bell Canada** — DevSecOps across 200+ microservices. Migrated the estate to
+- **Bell Canada**: DevSecOps across 200+ microservices. Migrated the estate to
   GitLab CI/CD, own production, mentor junior engineers.
-- **[Karoid](https://karoid.com)** — founder. A multi-tenant fleet telematics SaaS
+- **[Karoid](https://karoid.com)**: founder. A multi-tenant fleet telematics SaaS
   I built solo: native iOS/Android sensor modules, Express backend, Python data
   pipeline, AWS. Real-time vehicle tracking with no hardware.
 
