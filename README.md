@@ -24,4 +24,12 @@ offline-first architecture · ETL/ELT design · CI/CD and DevSecOps · privacy e
 ### Stack
 Kotlin · Swift · TypeScript · Python · Java · C# · SQL
 React · React Native · Node · Spring Boot · .NET · GraphQL
-AWS · GCP ·
+AWS · GCP · Docker · Kubernetes · Terraform · GitLab CI · GitHub Actions
+MongoDB · PostgreSQL · Redis · Kafka · ChromaDB
+
+### Background
+B.Eng Software Engineering, Polytechnique Montréal (3.79/4.0) · GCP Professional Cloud Architect
+1st place: Polyfinances Datathon 2023 · 1st place: CodeML Hackathon 2023
+EN · FR · AR
+
+📍 Canada · [LinkedIn](https://www.linkedin.com/in/hamza-karoui-92b50718a/) · [karoid.com](https://karoid.com/) · [hamza-karoui.site](https://hamza-karoui.site)
