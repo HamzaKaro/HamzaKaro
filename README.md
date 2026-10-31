@@ -1,33 +1,27 @@
-## Hamza Karoui
+# Hamza Karoui
 
-Software engineer in Montréal. I build and run production systems end to end
-from native mobile sensor pipelines to cloud data platforms.
+Software engineer in Montréal. I build and run production systems end to end, from AI agents
+and native mobile sensor pipelines to cloud platforms. Most of my production code lives in
+private company repositories; this page summarizes it.
 
-**Currently**
-- **Bell Canada**: DevSecOps across 200+ microservices. Migrated the estate to
-  GitLab CI/CD, own production, mentor junior engineers.
-- **[Karoid](https://karoid.com)**: founder. A multi-tenant fleet telematics SaaS
-  I built solo: native iOS/Android sensor modules, Express backend, Python data
-  pipeline, AWS. Real-time vehicle tracking with no hardware.
-_________________________________________________________________________________
+### Currently
 
-**What I work on**
-Mobile sensor pipelines · offline-first architecture · ETL/ELT design ·
-CI/CD and DevSecOps · privacy engineering (Québec Law 25 / GDPR)
+- **Bell Canada:** built a production AI agent (Plan-and-Execute / ReAct) that helps support teams
+  investigate incidents: retrieval over runbooks, read-only role-scoped MCP tools on production logs,
+  and an LLM-as-judge gate with human approval on every answer. Support became 3x faster.
+  Led the migration of 200+ microservices to standardized GitLab CI/CD (deployment cycles down 60%),
+  contract-first APIs generating Zod validators and TypeScript types, on-call for production,
+  mentor junior engineers.
+- **[Karoid](https://karoid.com/):** founder (NEXT AI and Propolys accelerators). A multi-tenant fleet
+  telematics SaaS: native iOS/Android sensor modules, Express backend, Python data pipeline on AWS,
+  LLM coaching on Bedrock and Vertex AI, and a reinforcement-learning model that cut false positives 93%.
+  Real-time vehicle tracking with no hardware; one paying fleet customer, live for 6 months.
 
-_________________________________________________________________________________
+### What I work on
+AI agents and evaluation (RAG, MCP tools, LLM-as-judge, human-in-the-loop) · mobile sensor pipelines ·
+offline-first architecture · ETL/ELT design · CI/CD and DevSecOps · privacy engineering (Québec Law 25 / GDPR)
 
-**Stack**
+### Stack
 Kotlin · Swift · TypeScript · Python · Java · C# · SQL
-React Native · Node · Spring Boot · .NET
-AWS · Docker · Kubernetes · Terraform · GitLab CI · GitHub Actions
-MongoDB · PostgreSQL · Redis · Kafka
-_________________________________________________________________________________
-
-**Background**
-B.Eng Software Engineering, Polytechnique Montréal (3.79/4.0)
-1st place: Polyfinances Datathon 2023 · 1st place: CodeML Hackathon 2023
-
-EN · FR · AR
-
-📍 Montréal · [LinkedIn](https://www.linkedin.com/in/hamza-karoui-92b50718a/) · [karoid.com](https://karoid.com)
+React · React Native · Node · Spring Boot · .NET · GraphQL
+AWS · GCP ·
